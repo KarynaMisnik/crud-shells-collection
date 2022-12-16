@@ -1,0 +1,93 @@
+:root{
+    /* font color*/
+    --clr-text: #000000; 
+    --clr-btn-delete: #ab2121;
+    --clr-btn-update: #253b8e; 
+}
+
+.App {
+    height: 100vh;
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom,
+            #c2ecff,
+            #baeef2,
+            #beede0,
+            #cdeace,
+            #e0e5c0,
+            #e9e4bc,
+            #f2e3b9,
+            #fce2b8,
+            #fce7b5,
+            #fbecb3,
+            #f9f2b2,
+            #f5f8b2);
+    color: var(--clr-text);
+}
+
+.shells {
+    display: flex;
+    gap: 1em;
+}
+
+.delete,
+.update {
+    border: none;
+    border-radius: 3px;
+    padding: 0.5em;
+    background: none;
+    cursor: pointer;
+    margin: 6px 6px;
+}
+
+.delete {
+    color: var(--clr-btn-delete);
+    border: 2px solid var(--clr-btn-delete);
+}
+
+.update {
+    color: var(--clr-btn-update);
+    border: 2px solid var(--clr-btn-update);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+}
+
+textarea,
+input {
+    width: 20em;
+    padding: 1em;
+    border: 1px solid var(--clr-btn-update);
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+.addHome,
+.formButton {
+    width: 12em;
+    padding: 1em;
+    border: none;
+    background: var(--clr-btn-update);
+    color: white;
+    font-size: 16px;
+    line-height: 10px;
+    font-weight: 900;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    margin-top: 1em;
+}
+
+.all_shells-view {
+    text-decoration: none;
+    font-weight: 900;
+    color: var(--clr-text);
+}
