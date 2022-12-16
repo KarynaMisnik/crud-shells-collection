@@ -48,8 +48,8 @@ PRIMARY KEY( id )
 
 Use locally in your web browser
 
-cd client
-npm start
+**cd client
+npm start**
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
