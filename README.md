@@ -35,6 +35,7 @@ CREATE DATABASE crud_shells;
 2️⃣ 
 
 USE  crud_shells;
+
 CREATE TABLE shells_db(
 id int,   
 name varchar(100), 
@@ -46,7 +47,7 @@ place varchar(100),
 PRIMARY KEY( id )
 );
 
-Use locally in your web browser
+💻 Use locally in your web browser 
 
 **cd client
 npm start**
