@@ -60,3 +60,16 @@ You may also see any lint errors in the console.
 Custom styles:
 📁 crud/client/src/style.css
 
+👉 Demo
+
+![crud1](https://user-images.githubusercontent.com/96831988/208117830-56e6e45f-ff0c-4971-b94e-6649c0f2a54e.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/96831988/208117940-160358aa-03ee-44f2-b0c3-7e69d031976e.png)
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/96831988/208117966-7abf04f4-e6e4-4936-930a-56b06536f746.png)
+
+
+
+
+
