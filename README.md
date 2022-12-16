@@ -1,5 +1,5 @@
 # crud-shells-collection
 
-Track the collection of shells  U+1F41A 
+Track the collection of shells 🐚
 
 
