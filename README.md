@@ -6,12 +6,12 @@ Track the collection of shells 🐚☀️🌊
 
 👉 Technologies
 
-JS
-REACT.js
-Express.js
-MySQL(Workbench)
-HTML
-CSS
+JS;
+REACT.js;
+Express.js;
+MySQL(Workbench);
+HTML;
+CSS;
 
 👉 Setup
 
